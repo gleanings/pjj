@@ -1,4 +1,4 @@
-onlyBuiltDependencies:
-  - unrs-resolver
-
 minimumReleaseAge: 0
+
+allowBuilds:
+  unrs-resolver: false

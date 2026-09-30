@@ -37,15 +37,15 @@ packageJson = {
     'CHANGELOG.md',
   ],
   keywords: ['pjj', 'mudbean', 'vvi'],
-  homepage: 'https://npm.lmssee.com/pjj',
+  homepage: 'https://npms.gleanings.cn/pjj',
   dependencies,
   bugs: {
-    url: 'https://github.com/MrMudBean/pjj/issues',
+    url: 'https://github.com/gleanings/pjj/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/MrMudBean/pjj.git',
+    url: 'git+https://github.com/gleanings/pjj.git',
   },
   publishConfig: {
     access: 'public',
